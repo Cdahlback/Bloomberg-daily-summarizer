@@ -5,7 +5,7 @@ The goal of this project is to automatically summarize the **Bloomberg BusinessD
 
 ## Core Components
 1. **Data Collection**: 
-   - Automatically scrape or extract content from the Bloomberg BusinessDaily Newsletter using web scraping or email parsing techniques.
+   - Automatically scrape or extract content from the Bloomberg BusinessDaily Newsletter using email parsing techniques.
 2. **Text Summarization**: 
    - Use Natural Language Processing (NLP) techniques to summarize the newsletter’s content into key insights.
 3. **Sentiment Analysis (Optional)**: 
